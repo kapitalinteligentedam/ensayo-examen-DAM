@@ -1,4 +1,4 @@
 main() {
   // Este es un ejemplo del código del examen.
-  // Mi nom,bre es Carlos Pérez Herraz
+  // Mi nombre es Carlos Pérez Herraz
 }
